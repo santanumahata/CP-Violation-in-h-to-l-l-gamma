@@ -1,0 +1,65 @@
+<file>######################################################################
+## VALIDITY RULE FOR THE PARAM_CARD   ####
+######################################################################
+<zero>
+     dim6 3 # 
+     dim6 4 # 
+     dim6 5 # 
+     dim6 6 # 
+     dim6 7 # 
+     dim6 8 # 
+     dim6 9 # 
+     dim6 10 # 
+     dim6 11 # 
+     dim6 12 # 
+     dim6 13 # 
+     dim6 14 # 
+     dim6 15 # 
+     dim6 16 # 
+     dim6 17 # 
+     dim6 18 # 
+     dim6 19 # 
+     dim6 20 # 
+     dim6 21 # 
+     dim6 22 # 
+     dim6 23 # 
+     dim6 24 # 
+     dim6 25 # 
+     dim6 26 # 
+     dim6 27 # 
+     dim6 28 # 
+     dim6 29 # 
+     dim6 30 # 
+     dim6 34 # 
+     dim6 35 # 
+     dim6 36 # 
+     dim6 37 # 
+     dim6 38 # 
+     dim6 39 # 
+     dim6 40 # 
+     dim6 41 # 
+     dim6 42 # 
+     dim6 46 # 
+     dim6 47 # 
+     dim6 48 # 
+     dim6 49 # 
+     dim6 50 # 
+     dim6 51 # 
+     dim6 52 # 
+     dim6 53 # 
+     dim6 54 # 
+     dim6 55 # 
+     dim6 56 # 
+     dim6 57 # 
+     dim6 58 # 
+     dim6 59 # 
+</zero>
+<one>
+</one>
+<identical>
+</identical>
+<opposite>
+</opposite>
+<constraint>
+</constraint>
+</file>

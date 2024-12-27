@@ -1,0 +1,97 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+      WRITE(*,*)  ' External Params'
+      WRITE(*,*)  ' ---------------------------------'
+      WRITE(*,*)  ' '
+      WRITE(*,*) 'mdl_dgZlR = ', MDL_DGZLR
+      WRITE(*,*) 'mdl_dgZlL = ', MDL_DGZLL
+      WRITE(*,*) 'mdl_kZZ = ', MDL_KZZ
+      WRITE(*,*) 'mdl_kZa = ', MDL_KZA
+      WRITE(*,*) 'mdl_kWW = ', MDL_KWW
+      WRITE(*,*) 'mdl_kZZt = ', MDL_KZZT
+      WRITE(*,*) 'mdl_kZat = ', MDL_KZAT
+      WRITE(*,*) 'mdl_kWWt = ', MDL_KWWT
+      WRITE(*,*) 'aEWM1 = ', AEWM1
+      WRITE(*,*) 'mdl_Gf = ', MDL_GF
+      WRITE(*,*) 'aS = ', AS
+      WRITE(*,*) 'mdl_ymdo = ', MDL_YMDO
+      WRITE(*,*) 'mdl_ymup = ', MDL_YMUP
+      WRITE(*,*) 'mdl_yms = ', MDL_YMS
+      WRITE(*,*) 'mdl_ymc = ', MDL_YMC
+      WRITE(*,*) 'mdl_ymb = ', MDL_YMB
+      WRITE(*,*) 'mdl_ymt = ', MDL_YMT
+      WRITE(*,*) 'mdl_yme = ', MDL_YME
+      WRITE(*,*) 'mdl_ymm = ', MDL_YMM
+      WRITE(*,*) 'mdl_ymtau = ', MDL_YMTAU
+      WRITE(*,*) 'mdl_MZ = ', MDL_MZ
+      WRITE(*,*) 'mdl_Me = ', MDL_ME
+      WRITE(*,*) 'mdl_MMU = ', MDL_MMU
+      WRITE(*,*) 'mdl_MTA = ', MDL_MTA
+      WRITE(*,*) 'mdl_MU = ', MDL_MU
+      WRITE(*,*) 'mdl_MC = ', MDL_MC
+      WRITE(*,*) 'mdl_MT = ', MDL_MT
+      WRITE(*,*) 'mdl_MD = ', MDL_MD
+      WRITE(*,*) 'mdl_MS = ', MDL_MS
+      WRITE(*,*) 'mdl_MB = ', MDL_MB
+      WRITE(*,*) 'mdl_MH = ', MDL_MH
+      WRITE(*,*) 'mdl_WZ = ', MDL_WZ
+      WRITE(*,*) 'mdl_WW = ', MDL_WW
+      WRITE(*,*) 'mdl_WT = ', MDL_WT
+      WRITE(*,*) 'mdl_WH = ', MDL_WH
+      WRITE(*,*)  ' Internal Params'
+      WRITE(*,*)  ' ---------------------------------'
+      WRITE(*,*)  ' '
+      WRITE(*,*) 'mdl_MZ__exp__2 = ', MDL_MZ__EXP__2
+      WRITE(*,*) 'mdl_MZ__exp__4 = ', MDL_MZ__EXP__4
+      WRITE(*,*) 'mdl_sqrt__2 = ', MDL_SQRT__2
+      WRITE(*,*) 'mdl_MH__exp__8 = ', MDL_MH__EXP__8
+      WRITE(*,*) 'mdl_MT__exp__8 = ', MDL_MT__EXP__8
+      WRITE(*,*) 'mdl_MH__exp__6 = ', MDL_MH__EXP__6
+      WRITE(*,*) 'mdl_MT__exp__6 = ', MDL_MT__EXP__6
+      WRITE(*,*) 'mdl_MH__exp__4 = ', MDL_MH__EXP__4
+      WRITE(*,*) 'mdl_MT__exp__4 = ', MDL_MT__EXP__4
+      WRITE(*,*) 'mdl_MH__exp__2 = ', MDL_MH__EXP__2
+      WRITE(*,*) 'mdl_MT__exp__2 = ', MDL_MT__EXP__2
+      WRITE(*,*) 'mdl_MZ__exp__6 = ', MDL_MZ__EXP__6
+      WRITE(*,*) 'mdl_MZ__exp__8 = ', MDL_MZ__EXP__8
+      WRITE(*,*) 'mdl_complexi = ', MDL_COMPLEXI
+      WRITE(*,*) 'mdl_aEW = ', MDL_AEW
+      WRITE(*,*) 'mdl_MW = ', MDL_MW
+      WRITE(*,*) 'mdl_sqrt__aEW = ', MDL_SQRT__AEW
+      WRITE(*,*) 'mdl_ee = ', MDL_EE
+      WRITE(*,*) 'mdl_MW__exp__2 = ', MDL_MW__EXP__2
+      WRITE(*,*) 'mdl_sw2 = ', MDL_SW2
+      WRITE(*,*) 'mdl_cw = ', MDL_CW
+      WRITE(*,*) 'mdl_sqrt__sw2 = ', MDL_SQRT__SW2
+      WRITE(*,*) 'mdl_sw = ', MDL_SW
+      WRITE(*,*) 'mdl_g1 = ', MDL_G1
+      WRITE(*,*) 'mdl_gw = ', MDL_GW
+      WRITE(*,*) 'mdl_vev = ', MDL_VEV
+      WRITE(*,*) 'mdl_MW__exp__8 = ', MDL_MW__EXP__8
+      WRITE(*,*) 'mdl_MW__exp__6 = ', MDL_MW__EXP__6
+      WRITE(*,*) 'mdl_MW__exp__4 = ', MDL_MW__EXP__4
+      WRITE(*,*) 'mdl_kHyy = ', MDL_KHYY
+      WRITE(*,*) 'mdl_kHZy = ', MDL_KHZY
+      WRITE(*,*) 'mdl_vev__exp__2 = ', MDL_VEV__EXP__2
+      WRITE(*,*) 'mdl_lam = ', MDL_LAM
+      WRITE(*,*) 'mdl_yb = ', MDL_YB
+      WRITE(*,*) 'mdl_yc = ', MDL_YC
+      WRITE(*,*) 'mdl_ydo = ', MDL_YDO
+      WRITE(*,*) 'mdl_ye = ', MDL_YE
+      WRITE(*,*) 'mdl_ym = ', MDL_YM
+      WRITE(*,*) 'mdl_ys = ', MDL_YS
+      WRITE(*,*) 'mdl_yt = ', MDL_YT
+      WRITE(*,*) 'mdl_ytau = ', MDL_YTAU
+      WRITE(*,*) 'mdl_yup = ', MDL_YUP
+      WRITE(*,*) 'mdl_muH = ', MDL_MUH
+      WRITE(*,*) 'mdl_ee__exp__2 = ', MDL_EE__EXP__2
+      WRITE(*,*) 'mdl_sw__exp__2 = ', MDL_SW__EXP__2
+      WRITE(*,*) 'mdl_cw__exp__2 = ', MDL_CW__EXP__2
+      WRITE(*,*)  ' Internal Params evaluated point by point'
+      WRITE(*,*)  ' ----------------------------------------'
+      WRITE(*,*)  ' '
+      WRITE(*,*) 'mdl_sqrt__aS = ', MDL_SQRT__AS
+      WRITE(*,*) 'mdl_G__exp__2 = ', MDL_G__EXP__2
+      WRITE(*,*) 'mdl_kHgg = ', MDL_KHGG
